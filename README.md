@@ -183,7 +183,7 @@ _![IMAGEN_NAT](https://github.com/calocaro/DHCP-maquina-virtual/blob/codespace-l
 
 * **Adaptador 2 en Puente**
 
-_![IMAGEN_PUENTE]()_
+_![IMAGEN_PUENTE](https://github.com/calocaro/DHCP-maquina-virtual/blob/codespace-legendary-carnival-rq5jx65gqvxhp574/adaptardor_puente.png?raw=true)_
 
 De esta manera nosotros ya conocemos la dirección MAC  a poder especificar, de todas formas podemos consultarlo de manera interna con el comando *ip addr* y desde ahi consultar dicha información.
 
