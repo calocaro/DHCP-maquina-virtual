@@ -179,11 +179,11 @@ En un caso de un entorno de desarrollo podemos crear una nueva máquina mediante
 
 * **Adaptador 1 en NAT**
 
-foto
+_![IMAGEN_NAT]()_
 
 * **Adaptador 2 en Puente**
 
-foto
+_![IMAGEN_NAT]()_
 
 De esta manera nosotros ya conocemos la dirección MAC  a poder especificar, de todas formas podemos consultarlo de manera interna con el comando *ip addr* y desde ahi consultar dicha información.
 
