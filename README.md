@@ -179,11 +179,11 @@ En un caso de un entorno de desarrollo podemos crear una nueva máquina mediante
 
 * **Adaptador 1 en NAT**
 
-_![IMAGEN_NAT]()_
+_![IMAGEN_NAT](https://github.com/calocaro/DHCP-maquina-virtual/blob/codespace-legendary-carnival-rq5jx65gqvxhp574/nat.png?raw=true)_
 
 * **Adaptador 2 en Puente**
 
-_![IMAGEN_NAT]()_
+_![IMAGEN_PUENTE]()_
 
 De esta manera nosotros ya conocemos la dirección MAC  a poder especificar, de todas formas podemos consultarlo de manera interna con el comando *ip addr* y desde ahi consultar dicha información.
 
